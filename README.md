@@ -1,7 +1,7 @@
 # CS320
 
 # How can I ensure that my code, program, or software is functional and secure?
-# One way I can ensure that my code is functional and secure is through unit and integeration testing. With unit testing I can 
+One way I can ensure that my code is functional and secure is through unit and integeration testing. With unit testing I can 
 # test the function, method, or class is performing as intended without bugs. Through integration testing I can test my code 
 # end-to-end and ensure all components of the software are working as intended. 
 
